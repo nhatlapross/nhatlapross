@@ -10,7 +10,7 @@
 
 ### 🌱 I'm currently focused on...
 - Building scalable applications using blockchain.
-- Exploring the depths of ưeb3 and contributing to open source.
+- Exploring the depths of Web3 and contributing to open source.
 - Learning more about AI.
 
 ### 💻 My Core Tech Stack
