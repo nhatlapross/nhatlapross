@@ -1,9 +1,8 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/logos/header.gif" alt="Hi There!" width="100%"/>
+    <h1>⭐ Hi, I'm Alvin 👋</h1>
     
-    # Hi there! I'm Alvin 👋
-
-    A passionate SWE from COSS. I love turning ideas into reality through code.
+    <h3>A passionate SWE from COSS. I love turning ideas into reality through code.</h3>
 </div>
 
 ---
@@ -23,15 +22,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-
----
-
-### ⚙️ GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nhatlapross&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatlapross&theme=radical" alt="GitHub Streak"/>
-</div>
-<br>
 
 ### 🤝 Connect with me
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/nhat-nguyen-69b85b134]
