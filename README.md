@@ -28,8 +28,8 @@
 
 ### ⚙️ GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[Tên GitHub của bạn]&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Tên GitHub của bạn]&theme=radical" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nhatlapross&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatlapross&theme=radical" alt="GitHub Streak"/>
 </div>
 <br>
 
