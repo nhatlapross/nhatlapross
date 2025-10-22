@@ -1,7 +1,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/logos/header.gif" alt="Hi There!" width="100%"/>
     <h1>⭐ Hi, I'm Alvin 👋</h1>
-    
     <h3>A passionate SWE from COSS. I love turning ideas into reality through code.</h3>
 </div>
 
